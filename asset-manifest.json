@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ezcep/static/css/main.a671f9eb.css",
+    "main.js": "/ezcep/static/js/main.1daf0e84.js",
+    "static/js/787.55823ba7.chunk.js": "/ezcep/static/js/787.55823ba7.chunk.js",
+    "index.html": "/ezcep/index.html",
+    "main.a671f9eb.css.map": "/ezcep/static/css/main.a671f9eb.css.map",
+    "main.1daf0e84.js.map": "/ezcep/static/js/main.1daf0e84.js.map",
+    "787.55823ba7.chunk.js.map": "/ezcep/static/js/787.55823ba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a671f9eb.css",
+    "static/js/main.1daf0e84.js"
+  ]
+}

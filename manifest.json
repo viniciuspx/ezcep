@@ -1,0 +1,6 @@
+{
+  "short_name": "ezCEP",
+  "name": "CEP finder",
+  "start_url": ".",
+  "display": "standalone"
+}
